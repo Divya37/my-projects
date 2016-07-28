@@ -1,0 +1,81 @@
+8,chaitu245,MVSR
+10,dhoni849,GVP
+14,yashashvini643,MGIT
+19,sandya197,CVR
+23,afreen782,MGIT
+24,chaitu618,CVR
+25,rohit812,VNR
+28,khan310,GVP
+37,khan896,GITAM
+43,karthik981,ANITS
+53,dhoni574,CVR
+61,vineeth954,GITAM
+68,kalyan295,MGIT
+74,yashashvini404,MGIT
+81,kholi696,ANITS
+83,ajay756,St. Martins
+88,kholi156,MVGR
+93,yasasvee228,GITAM
+94,pawan283,VNR
+102,afreen575,Bapatla
+110,sharma161,CVR
+114,pawan223,GITAM
+117,aswin702,Bapatla
+120,sujana167,ANITS
+121,mohmad488,VNR
+129,chaitu319,GITAM
+132,khan246,GITAM
+135,vishnu996,MGIT
+145,khan393,MVSR
+147,priyanka585,ANITS
+154,pawan768,St. Martins
+163,ajay195,GVP
+170,prem902,St. Martins
+178,sharma188,CVR
+181,pawan224,VNR
+182,sandya123,MVGR
+183,kalyan620,GVP
+186,sujana468,CVR
+189,taraka ramarao747,VNR
+196,kholi269,MVSR
+201,rohit533,VNR
+206,sandya852,MVGR
+216,kholi109,GITAM
+226,hari741,MVSR
+229,kalyan234,St. Martins
+231,taraka ramarao138,Bapatla
+236,priyanka620,MVSR
+239,sandeep417,MVSR
+246,yashashvini701,ANITS
+256,chaitu983,CVR
+257,kholi425,Bapatla
+265,yasasvee639,ANITS
+268,rahul702,ANITS
+273,mahesh940,MGIT
+283,aswin294,CVR
+291,vineeth501,Bapatla
+296,kalyan361,St. Martins
+302,sagar108,GVP
+305,chaitu292,St. Martins
+309,sagar214,ANITS
+316,kalyan884,MVGR
+319,pawan384,MGIT
+327,pawan819,CVR
+328,rahul220,MVSR
+335,kalyan667,Bapatla
+337,sharma286,MGIT
+342,yashashvini300,VNR
+347,hari662,CVR
+355,virat953,GVP
+365,yashashvini123,Bapatla
+368,kalyan831,MVGR
+376,sandeep891,MGIT
+378,laxmi668,VNR
+379,khan375,Bapatla
+387,sandeep778,VNR
+393,sujana731,St. Martins
+403,yasasvee891,St. Martins
+404,aswin781,VNR
+412,yashashvini237,GITAM
+416,sagar882,VNR
+423,laxmi458,VNR

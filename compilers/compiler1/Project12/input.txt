@@ -1,0 +1,8 @@
+1 SCAN A
+1 SCAN B
+2 C = A + 10
+1 PRINT C
+3 D = 10 + B
+1 PRINT D
+4 F = D + B
+1 PRINT F

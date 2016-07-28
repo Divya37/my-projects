@@ -1,0 +1,16 @@
+﻿Build started 7/23/2016 11:33:02 PM.
+     1>Project "C:\Users\Divya\Documents\Visual Studio 2013\Projects\asm to file exe\Project12\Project12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\divya\documents\visual studio 2013\projects\asm to file exe\project12\source.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\divya\documents\visual studio 2013\projects\asm to file exe\project12\source.cpp(62): warning C4715: 'fetch_reg_id' : not all control paths return a value
+     1>c:\users\divya\documents\visual studio 2013\projects\asm to file exe\project12\source.cpp(51): warning C4715: 'fetch_id' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Divya\Documents\Visual Studio 2013\Projects\asm to file exe\Debug\Project12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Divya\Documents\Visual Studio 2013\Projects\asm to file exe\Debug\Project12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Divya\Documents\Visual Studio 2013\Projects\asm to file exe\Debug\Project12.lib" /MACHINE:X86 Debug\Source.obj
+         Project12.vcxproj -> C:\Users\Divya\Documents\Visual Studio 2013\Projects\asm to file exe\Debug\Project12.exe
+     1>Done Building Project "C:\Users\Divya\Documents\Visual Studio 2013\Projects\asm to file exe\Project12\Project12.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.19

@@ -1,0 +1,9 @@
+﻿Build started 6/25/2016 10:37:52 PM.
+     1>Project "C:\Users\Divya\Desktop\client server maze\client program\socket_client\socket_client.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         socket_client.vcxproj -> C:\Users\Divya\Desktop\client server maze\client program\Debug\socket_client.exe
+     1>Done Building Project "C:\Users\Divya\Desktop\client server maze\client program\socket_client\socket_client.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.25
